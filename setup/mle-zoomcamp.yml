@@ -1,0 +1,15 @@
+name: mle-zoomcamp
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - ipykernel
+  - nbformat
+  - matplotlib
+  - seaborn
+  
